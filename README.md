@@ -1,2 +1,2 @@
 # til
-Today I Learned
+Starting my journey to master Applied AI for Business Operations (Pharma & Logistics).
